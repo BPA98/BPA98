@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">I'm Bruno <br><br>- Junior Video Game Programmer<br>- Junior Unity Developer<br>- Worked on Possession Carnage (https://github.com/BitesBytes/PossessionCarnage) <br> - Currently working on Project Detective <br></p>
+<p align="left">I'm Bruno <br><br>- Junior Video Game Programmer<br> - Junior Unity Developer<br> - Unreal Junior Developer <br> - I love making games and everything that surrounds them <br>
+
+[//]: <> (my portfolio: )
 
 ###
 
