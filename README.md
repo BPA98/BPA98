@@ -1,6 +1,4 @@
-<h1 align="center">Welcome</h1>
-
-<h3 align="left">If you really insist to know me better 👇</h3>
+<img src="https://i.imgur.com/sWeClT7.png" align="top"/>
 
 ###
 
@@ -9,7 +7,7 @@
 ###
 
 <p align="left"> I'm Bruno <br><br>- Junior Video Game Programmer<br> - Junior Unity Developer<br> - Unreal Junior Developer <br> - Cat lover , Yu-Gi-Oh! player and JRPG enjoyer. <br>
-<p align="left"> Sometimes i also code in zig
+<p align="left"> Sometimes i also code in zig and go
 
 [//]: <> (my portfolio: )
 
